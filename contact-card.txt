@@ -1,3 +1,0 @@
-Username: change+your+name
-Age: 19
-Job: Backend developer
