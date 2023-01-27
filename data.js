@@ -1,3 +1,10 @@
-const users = ['Phazerous', 'FnisBUF', 'MrTylSet'];
+const users = [
+  'Phazerous',
+  'NPhazerous',
+  'Phazzy',
+  'Phazzy_SEA',
+  'FnisBUF',
+  'Phazerous',
+];
 
-module.exports = { users };
+module.exports = users;
