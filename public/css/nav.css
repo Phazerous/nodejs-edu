@@ -1,0 +1,21 @@
+.main-header__nav {
+  background-color: gray;
+}
+
+.main-header__item-list {
+  display: flex;
+  margin-left: 10rem;
+  gap: 10rem;
+
+  list-style: none;
+  font-size: 4rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.active {
+  color: red;
+  text-decoration: underline;
+}
